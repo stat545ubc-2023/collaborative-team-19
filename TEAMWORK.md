@@ -2,14 +2,15 @@
 ## Division of Labor
 ### @AdeshBaral1 :
 - [X] Comment on Christine’s **pull request** and merge it to the main branch
-- [X] Edit TEAMWORK.md in a separate branch and ask Apsara to merge
-- [ ] I edit the README.md file
+- [X] Edit TEAMWORK.md in a separate branch and **ask Apsara to merge**
+- [X] Edit the README.md file
 
 ### @christine747 : 
 - [X] **Edit the README.md** in a separate branch
 - [X] **Make a pull request** for editing the README.md and ask Adesh to merge it to the main branch
 - [X] **Merge Alma’s pull request** for creating TEAMWORK.md to the main branch
 - [X] Fix error 2 in the troubleshooting-1.Rmd document
+- [X] Knit the troubleshooting-1.Rmd
 
 ### @almita : 
 - [X] Create TEAMWORK.md in a separate branch
