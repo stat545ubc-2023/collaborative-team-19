@@ -1,25 +1,28 @@
 # Teamwork Contract
 ## Division of Labor
-### Adesh:
-1. Comment on Christine’s **pull request** and merge it to the main branch
-2. Edit TEAMWORK.md in a separate branch and ask Apsara to merge
-3. I edit the README.md file
+### @AdeshBaral1 :
+- [X] Comment on Christine’s **pull request** and merge it to the main branch
+- [X] Edit TEAMWORK.md in a separate branch and ask Apsara to merge
+- [ ] I edit the README.md file
 
-### Christine: 
-1.**Edit the README.md** in a separate branch
-2.**Make a pull request** for editing the README.md and ask Adesh to merge it to the main branch
-3. **Merge Alma’s pull request** for creating TEAMWORK.md to the main branch
-4. Fix error 2 in the troubleshooting-1.Rmd document
-### Alma: 
-1. Create TEAMWORK.md in a separate branch
-2. **Make pull request** and ask Christine to merge it
-3. **Merge Apsara’s pull request**
-4. Fix error 1 of troubleshooting-1.Rmd document
-### Apsara:
-1.**Create the troubleshooting-1.Rmd** file in a separate branch. 
-2.**Make a pull request** and asked Alma to merge it to the main branch.
-3. **Merge Adesh’s TEAMWORK.md file to the main branch**.
-4.Fix error 3 of troubleshooting-1.Rmd document
+### @christine747 : 
+- [X] **Edit the README.md** in a separate branch
+- [X] **Make a pull request** for editing the README.md and ask Adesh to merge it to the main branch
+- [X] **Merge Alma’s pull request** for creating TEAMWORK.md to the main branch
+- [X] Fix error 2 in the troubleshooting-1.Rmd document
+
+### @almita : 
+- [X] Create TEAMWORK.md in a separate branch
+- [X] **Make pull request** and ask Christine to merge it
+- [X] **Merge Apsara’s pull request**
+- [X] Fix error 1 of troubleshooting-1.Rmd document
+- [X] Add github markdown to TEAMWORK.md
+
+### @Apsara421 :
+- [X] **Create the troubleshooting-1.Rmd** file in a separate branch. 
+- [X] **Make a pull request** and asked Alma to merge it to the main branch.
+- [X] **Merge Adesh’s TEAMWORK.md file to the main branch**.
+- [X] Fix error 3 of troubleshooting-1.Rmd document
 
 
 
@@ -28,9 +31,13 @@ We are doing the project together in real time in one sitting, so we are communi
 
 
 ## Communication:
-1. Slack for general communication and planning meetings
-2. Zoom for working on the project
-3. Issues on Github to introduce ourselves.
+
+Tool | For what
+---- | --------
+Slack | for general communication and planning meetings
+Zoom | for working on the project
+Github | for issues to introduce ourselves, commit messages, pull requests
+
 
 
 
