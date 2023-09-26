@@ -18,6 +18,10 @@ This project was created by @AdeshBaral1 @almita @Apsara421 and @christine747 :s
 
 **troubleshooting-1.md**: This file contains the markdown version of the troubleshooting exercise file.
 
+**troubleshooting-2.rmd**: This file contains errors that we need to fix as a team. The codes are fixed, and the solution is described in a comment.
+
+**troubleshooting-2.md**: This file contains the markdown version of the troubleshooting exercise file.
+
 ---
 
 ## How can you run code that appears in our folder / GitHub repository?
